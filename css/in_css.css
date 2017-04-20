@@ -1,0 +1,10 @@
+#details {
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: 200;
+}
+@media screen and (min-width: 768px) {
+    #details {
+        font-size: 23px;
+    }
+}

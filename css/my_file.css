@@ -1,0 +1,19 @@
+.error {color: #FF0000;}
+body {
+	background-color: lightyellow;
+	color : blue;
+}
+table {
+	border : 2px solid black;
+	width: 25%;
+}
+tr {
+	text-align: left;
+	padding: 20px;
+}
+tr:nth-child(even) {background-color: #f2f2f2}
+th {
+    background-color: #4CAF50;
+    color: white;
+	text-align: center;
+}
